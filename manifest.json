@@ -34,13 +34,13 @@
          "theme_frame_incognito_inactive": "images/theme_frame.png",
          "theme_frame_overlay": "images/theme_frame_overlay.png",
          "theme_frame_overlay_inactive": "images/theme_frame_overlay.png",
-         "theme_ntp_background": "images/deadpool.jpg",
+         "theme_ntp_background": "images/venom_black.png",
          "theme_tab_background_incognito": "images/theme_tab_background.png",
          "theme_tab_background": "images/theme_tab_background.png",
          "theme_window_control_background": "images/theme_window_control_background.png"
       },
       "properties": {
-         "ntp_background_alignment": "center",
+         "ntp_background_alignment": "bottom",
          "ntp_background_repeat": "repeat",
          "ntp_logo_alternate": "0"
       },
